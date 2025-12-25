@@ -29,6 +29,10 @@
 - Backend Web Dev focused on building clean and efficient APIs
 - Coffee and calisthenics enthusiast
 
+## Education
+
+- 🎓 **BSc Computer Science** — starting 2026
+
 ## Tech Stack
 
 <table>
