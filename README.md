@@ -31,7 +31,7 @@
 
 ## Education
 
-- 🎓 **BSc Computer Science** — starting 2026
+- 🎓 **BSc Computer Science** - starting 2026
 
 ## Tech Stack
 
