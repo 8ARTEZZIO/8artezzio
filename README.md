@@ -44,6 +44,7 @@
       <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
     </td>
   </tr>
   <tr>
