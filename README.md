@@ -16,6 +16,7 @@
 
 ## Table of Contents
 - [About Me](#about-me)
+- [Education](#education)
 - [Tech Stack](#tech-stack)
 - [Projects](#projects)
 - [Badges](#badges)
