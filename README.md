@@ -27,8 +27,7 @@
 
 ## About Me
 
-- Backend Web Dev focused on building clean and efficient APIs
-- Coffee and calisthenics enthusiast
+Self-learning guy that is transitioning from high-end hospitality to software industry.
 
 ## Education
 
