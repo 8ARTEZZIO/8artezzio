@@ -95,12 +95,6 @@ Here are some of my certifications and accomplishments:
 - **Email**: [b4rte4@gmail.com](mailto:b4rte4@gmail.com)
 - **LinkedIn**: [Bartlomiej Kuźma](https://www.linkedin.com/in/bartlomiej-kuzma-9327a52a9/)
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=8ARTEZZIO&show_icons=true&hide_title=true&theme=chartreuse-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8ARTEZZIO&layout=compact&theme=chartreuse-dark)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=8ARTEZZIO&theme=chartreuse-dark)
-
 ## 🏆 Achievements
 
 - 🎓 UDEMY: The Complete Python Bootcamp From Zero to Hero in Python by Jose Portilla
